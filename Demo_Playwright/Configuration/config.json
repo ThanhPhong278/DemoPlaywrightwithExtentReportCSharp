@@ -1,0 +1,12 @@
+{
+  "BaseUrl": "https://ahasoft-homepage-kr-staging.azurewebsites.net/login/login",
+  "Browser": "chromium",
+  "Environment": "QA",
+  "Timeout": 30000,
+  "Headless": false,
+  "SlowMo": 0,
+  "TraceDir": "traces",
+  "ScreenshotDir": "screenshots",
+  "VideoDir": "videos",
+  "HarDir": "network"
+}
