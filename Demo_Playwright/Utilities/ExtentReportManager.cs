@@ -43,7 +43,7 @@ namespace Demo_Playwright.Utilities
                 // Initialize ExtentReports
                 _extent = new ExtentReports();
                 _extent.AttachReporter(htmlReporter);
-
+                
                 _extent.AddSystemInfo("AhaPlus Site Testing", "Salon Admin");
                 _extent.AddSystemInfo("Release", "R85");
                 _extent.AddSystemInfo("Environment", TestConfig.Load().Environment);
