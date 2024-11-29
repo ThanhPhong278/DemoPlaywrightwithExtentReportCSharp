@@ -4,7 +4,7 @@
   "Environment": "QA",
   "Timeout": 30000,
   "Headless": false,
-  "SlowMo": 0,
+  "SlowMo": 1000,
   "TraceDir": "traces",
   "ScreenshotDir": "screenshots",
   "VideoDir": "videos",
